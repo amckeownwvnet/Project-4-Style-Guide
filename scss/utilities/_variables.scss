@@ -1,0 +1,17 @@
+// Descriptive Color Variables
+
+$turquoise      : #58e1c1;
+$gray           : #777;
+$malibu         : #51ddfc;
+
+
+
+// Functional color variables
+
+$color-prim     :$turquoise ;
+$color-sec      :$malibu    ;
+$color-def      :$gray      ;
+
+//Media Query breakpoints
+
+$brk-nrw     : (max-width: 768px)  ;

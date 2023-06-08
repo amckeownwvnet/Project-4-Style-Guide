@@ -3,14 +3,17 @@
 $turquoise      : #58e1c1;
 $gray           : #777;
 $malibu         : #51ddfc;
-
-
+$sunglo         : #e4757a;
+$emerald        : #63cc82;
 
 // Functional color variables
 
 $color-prim     :$turquoise ;
 $color-sec      :$malibu    ;
 $color-def      :$gray      ;
+$color-err      :$sunglo    ;
+$color-pos      :$emerald   ;
+
 
 //Media Query breakpoints
 
